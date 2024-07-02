@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "Medusa",
+      "type": "T-Shirt",
+      "description": "The Medusa T-Shirt is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 49.99,
+      "bodyFit": "Slim fit",
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "2",
+      "brand": "Medusa",
+      "type": "Sweatshirt",
+      "description": "The Medusa Sweatshirt is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Grey",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 89.99,
+      "bodyFit": "Regular fit",
+      "material": "50% cotton 50% polyester"
+    },
+    {
+      "id": "3",
+      "brand": "Medusa Accessories",
+      "type": "Backpack",
+      "description": "The Medusa Backpack features durable materials and multiple compartments for all your essentials.",
+      "colors": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "price": 59.99,
+      "material": "90% cotton 10% polyester"
+    },
+    {
+      "id": "4",
+      "brand": "Medusa Accessories",
+      "type": "Cap",
+      "description": "The Medusa Cap is made from premium materials and features an adjustable strap for a comfortable fit.",
+      "colors": [
+        "Grey",
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 59.99,
+      "material": "60% cotton 40% polyester"
+    },
+    {
+      "id": "5",
+      "brand": "Medusa Accessories",
+      "type": "Bag",
+      "description": "The Medusa Bag is perfect for daily use, offering ample space and a stylish design.",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "price": 59.99,
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "6",
+      "brand": "Medusa Accessories",
+      "type": "Bottle",
+      "description": "The Medusa Bottle is perfect for daily use, offering ample space and a stylish design.",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "price": 19.99,
+      "material": "80% cotton 20% polyester"
+    },
+    {
+      "id": "7",
+      "brand": "Medusa",
+      "type": "T-Shirt",
+      "description": "The Medusa T-Shirt is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Yellow",
+        "Green",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "price": 79.99,
+      "bodyFit": "Regular fit",
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "8",
+      "brand": "Medusa",
+      "type": "Socks",
+      "description": "The Medusa Socks are made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 29.99,
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "9",
+      "brand": "Medusa Accessories",
+      "type": "Cup",
+      "description": "The Medusa Cup is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Blue",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "price": 14.99,
+      "bodyFit": "Regular fit",
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "10",
+      "brand": "Medusa Accessories",
+      "type": "Phonecase",
+      "description": "The Medusa Phone Case is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "price": 25.99,
+      "bodyFit": "Regular fit",
+      "material": "70% cotton 30% polyester"
+    },
+    {
+      "id": "11",
+      "brand": "Medusa",
+      "type": "Sweatshirt",
+      "description": "The Medusa Phone Case is made from a heavyweight, overdyed jersey, featuring contrasting mesh panels on each side that match the logo embroidery on the back.",
+      "colors": [
+        "Blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": 25.99,
+      "bodyFit": "Athletic fit",
+      "material": "90% cotton 10% polyester"
+    }
+  ]
+}
